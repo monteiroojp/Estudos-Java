@@ -11,6 +11,4 @@ Este repositório documenta minha transição do C++ para o **Java**, com foco t
 - [ ] Compreender a sintaxe e o ecossistema Java (JVM, JDK, JRE).
 - [ ] Mapear conceitos de C++ para Java (O que muda na gestão de memória, referências, etc.).
 - [ ] Aprofundar em conceitos avançados de POO (Interfaces, Polimorfismo, Abstração).
-- [ ] **Refatorar** dois projetos principais aplicando boas práticas e Design Patterns.
-
 ---
