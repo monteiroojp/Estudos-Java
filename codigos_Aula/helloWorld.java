@@ -1,6 +1,6 @@
 package codigos_Aula;
 
-public class Hello_World {
+public class helloWorld {
     public static void main(String[] args){
         System.out.println("Hello world");
     }
