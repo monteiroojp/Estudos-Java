@@ -35,7 +35,6 @@ public class javaInput {
         int numberInt4 = sc.nextInt();
         sc.nextLine(); //Clears the buffer
         String string = sc.nextLine();
-
         sc.close(); //Close the stream
     }
 }
