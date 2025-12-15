@@ -1,7 +1,7 @@
 package codigos_Aula;
 import java.util.Locale;
 
-public class javaOutput {
+public class JavaOutput {
     public static void main(String[] args){
         Locale.setDefault(Locale.US);
         //Output with break line

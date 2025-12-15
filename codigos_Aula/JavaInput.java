@@ -2,7 +2,7 @@ package codigos_Aula;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class javaInput {
+public class JavaInput {
     public static void main(String[] args){
         //Scanner
         Locale.setDefault(Locale.US);

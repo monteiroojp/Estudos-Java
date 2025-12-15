@@ -2,7 +2,7 @@ package codigos_Aula;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class ifElse {
+public class IfElse {
     public static void main(String[] args){
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
@@ -37,6 +37,8 @@ public class ifElse {
         else{
             System.out.println("Salary can not be negative");
         }
+
+        sc.close();
     }
 
 }

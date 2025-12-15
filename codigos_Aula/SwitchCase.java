@@ -1,7 +1,7 @@
 package codigos_Aula;
 import java.util.Scanner;
 
-public class switchCase {
+public class SwitchCase {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         byte day = sc.nextByte();
@@ -31,5 +31,6 @@ public class switchCase {
             default:
                 System.out.println("Day must be on interval [0,7]");
         }
+        sc.close();
     }
 }

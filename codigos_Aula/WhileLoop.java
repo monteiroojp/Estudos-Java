@@ -1,7 +1,7 @@
 package codigos_Aula;
 import java.util.Scanner;
 
-public class whileLoop {
+public class WhileLoop {
     public static void main(String[] args){
         int total = 0;
         Scanner sc = new Scanner(System.in);
@@ -31,5 +31,6 @@ public class whileLoop {
         }
 
         System.out.printf("Thank you!%nAlcool: %d%nGasoline: %d%nDiesel: %d%n", alcool, gasoline, diesel);
+        sc.close();
     }
 }

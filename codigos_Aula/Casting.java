@@ -6,11 +6,11 @@ public class Casting {
         int b = 2;
 
         //No casting
-        double resultado1 = a/b;
-        System.out.println(resultado1);
+        double result1 = a/b;
+        System.out.println(result1);
 
         //Casting
-        double resultado2 = (double) a/b;
-        System.out.println(resultado2);
+        double result2 = (double) a/b;
+        System.out.println(result2);
     }
 }

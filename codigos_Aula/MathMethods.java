@@ -1,7 +1,7 @@
 package codigos_Aula;
 import java.util.Scanner;
 
-public class mathMethods {
+public class MathMethods {
     public static void main(String[] args){
         //Values for testing
         double x = 3.0;
@@ -37,5 +37,7 @@ public class mathMethods {
         else{
             System.out.print("There is no real root for this equation");
         }
+
+        sc.close();
     }
 }

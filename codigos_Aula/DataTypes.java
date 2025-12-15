@@ -1,6 +1,6 @@
 package codigos_Aula;
 
-public class dataTypes {
+public class DataTypes {
     public static void main(String[] args){
         //Datatype for int values;
         byte numberInt1 = 125;
