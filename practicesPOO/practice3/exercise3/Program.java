@@ -13,5 +13,7 @@ public class Program {
             student.finalGrade += sc.nextDouble();
 
         student.showResult();
+
+        sc.close();
     }
 }

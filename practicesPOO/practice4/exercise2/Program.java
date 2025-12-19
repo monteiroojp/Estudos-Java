@@ -14,5 +14,7 @@ public class Program {
         double value = sc.nextDouble();
 
         System.out.printf("Amount to be paid in BRL = %.2f", CurrencyConverter.dollarToReal(value));
+
+        sc.close();
     }
 }

@@ -20,5 +20,7 @@ public class Program {
 
         //Diagonal
         System.out.printf("Diagonal = %.2f%n", rectangle.getDiagonal());
+
+        sc.close();
     }
 }

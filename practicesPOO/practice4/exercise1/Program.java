@@ -18,5 +18,7 @@ public class Program {
 
         //PI value
         System.out.println("PI value: " + Calculator.PI);
+
+        sc.close();
     }
 }

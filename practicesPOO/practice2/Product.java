@@ -25,7 +25,7 @@ public class Product {
         return "Product data: " +
                 name +
                 ", $ " +
-                price +
+                String.format("%.2f", price) +
                 ", " +
                 quantity +
                 " units, Total: $ " +

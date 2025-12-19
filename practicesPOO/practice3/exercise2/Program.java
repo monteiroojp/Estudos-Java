@@ -24,5 +24,7 @@ public class Program {
 
         //Updated data
         System.out.printf("Updated data: %s%n", employee.toString());
+
+        sc.close();
     }
 }
