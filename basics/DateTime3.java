@@ -15,13 +15,13 @@ public class DateTime3 {
         LocalDateTime d03 = LocalDateTime.ofInstant(d01, ZoneId.systemDefault());
 
         //Output
-        //System.out.println(d02);
-        //System.out.println(d03);
+        System.out.println(d02);
+        System.out.println(d03);
 
         //Get infos from data-time
-        //System.out.println(d02.getDayOfMonth());
-        //System.out.println(d02.getDayOfWeek());
-        //System.out.println(d03.getHour());
+        System.out.println(d02.getDayOfMonth());
+        System.out.println(d02.getDayOfWeek());
+        System.out.println(d03.getHour());
 
         //LocalDate
         LocalDate d04 = LocalDate.parse("2026-01-26");
